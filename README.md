@@ -19,7 +19,7 @@ This repo contains a single main file, a `Mesh` class file, and a few function f
 Simple clone and run:
 
 ```bash
-git clone https://github.com/damynchipman/ShallowWater.git
+git clone https://github.com/DamynChipman/ShallowWater.git
 ```
 
 ## Usage
